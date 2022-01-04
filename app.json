@@ -17,6 +17,6 @@
         }
     },
     "website": "https://github.com/DreamUFO/hrk-alpine",
-    "repository": https://github.com/DreamUFO/hrk-alpine",
+    "repository": "https://github.com/DreamUFO/hrk-alpine",
     "stack": "container"
 }
